@@ -1,4 +1,4 @@
-# Gemini Relay 2026.10.15 · macOS 分享版 / Community Build
+# Gemini 官方 macOS App 中转适配版 v2026.10.15｜API 接入首发 / First Relay Release
 
 [中文说明](https://github.com/TGmszrcsz/gemini-relay#readme) · [English guide](https://github.com/TGmszrcsz/gemini-relay/blob/main/README.en.md)
 
@@ -7,7 +7,9 @@
 
 ## 中文
 
-通过自己的 API URL 与 API Key 使用 Gemini macOS 客户端，无需 Google 账号，并加入基础项目编程、代码编辑、交互预览与 MCP 连接。
+**基于 Gemini 官方 macOS App 的社区中转适配版，首次公开发布 API URL + API Key 接入功能。**
+
+填写自己的中转站地址和密钥即可使用，无需 Google 账号，保留原有客户端界面，并加入基础项目编程、代码编辑、交互预览与 MCP 连接。本版本是社区修改版，不是 Google 官方发行；“首发”指本项目首次发布。
 
 ### 本版功能
 
@@ -35,7 +37,9 @@
 
 ## English
 
-Use the Gemini macOS client with your own API URL and key, without a Google account. This build adds basic project coding, a code editor, interactive previews and MCP connections.
+**First public release of this community API relay adaptation of the official Gemini macOS app.**
+
+Enter your own relay URL and API key to connect without a Google account. The build retains the original client interface and adds basic project coding, a code editor, interactive previews and MCP connections. It is a community modification, not an official Google release. “First release” refers to this project.
 
 ### Included
 

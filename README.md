@@ -1,6 +1,6 @@
-# Gemini Relay
+# Gemini Relay · Gemini 官方 macOS App 中转适配版
 
-**面向 macOS 的第三方 API 客户端：聊天、项目编程、HTML 预览与 MCP。**
+**API 中转接入首发：填写 API URL 和 Key，无需 Google 账号，使用原有 macOS 客户端界面进行对话与基础项目编程。**
 
 简体中文 · [English](README.en.md)
 
@@ -9,7 +9,7 @@
 
 [**下载 macOS 安装包**](https://github.com/TGmszrcsz/gemini-relay/releases/tag/v2026.10.15) · [发布说明](docs/RELEASE-v2026.10.15.md) · [安装指南](docs/INSTALL.md)
 
-这是在 Gemini macOS 原有客户端上加入第三方 API 适配和 AppKit 编程功能的修改版本。使用自己的 API URL 和 API Key 即可连接，无需 Google 账号。本项目独立于 Google，不是 Google 官方发行版。
+本项目以 Gemini 官方 macOS App 为基础，加入第三方 API 中转适配和 AppKit 编程功能；这是本项目的首次公开发布。使用自己的 API URL 和 API Key 即可连接，无需 Google 账号。本项目独立于 Google，不是 Google 官方发行版。
 
 ![HTML 与 SVG 交互预览](assets/screenshots/html-live-preview.png)
 

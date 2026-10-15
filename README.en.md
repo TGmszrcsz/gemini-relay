@@ -1,6 +1,6 @@
-# Gemini Relay
+# Gemini Relay · API Relay for the Original Gemini macOS App
 
-**A macOS client for your API provider: chat, project coding, HTML previews and MCP.**
+**First community release: connect with your own API URL and key, without a Google account, using the original macOS client interface for chat and basic project coding.**
 
 [简体中文](README.md) · English
 
@@ -9,7 +9,7 @@
 
 [**Download for macOS**](https://github.com/TGmszrcsz/gemini-relay/releases/tag/v2026.10.15) · [Release notes](docs/RELEASE-v2026.10.15.md) · [Installation guide](docs/INSTALL.md)
 
-This is a modified Gemini macOS client with a third-party API adapter and additional AppKit coding features. Connect with your own API URL and key, without a Google account. This project is independent of Google and is not an official Google distribution.
+Built on the official Gemini macOS app, this community modification adds API relay support and AppKit coding features. This is the first public release of this project. Connect with your own API URL and key, without a Google account. This project is independent of Google and is not an official Google distribution.
 
 ![Interactive HTML and SVG preview](assets/screenshots/html-live-preview.png)
 
